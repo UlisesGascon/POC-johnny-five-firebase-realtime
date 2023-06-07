@@ -1,4 +1,4 @@
-# POC-johnny-five-firebase-realtime
+# POC - Johnny Five with Firebase Realtime DB
 
 Proof of Concept - how to use Firebase Realtime Database with Johnny-five
 
