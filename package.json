@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime#readme",
   "dependencies": {
+    "firebase-admin": "11.9.0",
     "johnny-five": "2.1.0"
   }
 }
