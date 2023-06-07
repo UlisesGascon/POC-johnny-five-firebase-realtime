@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime/issues"
   },
-  "homepage": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime#readme"
+  "homepage": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime#readme",
+  "dependencies": {
+    "johnny-five": "2.1.0"
+  }
 }
