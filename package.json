@@ -1,0 +1,20 @@
+{
+  "name": "poc-johnny-five-firebase-realtime",
+  "version": "1.0.0",
+  "description": "Proof of Concept - how to use Firebase Realtime Database with Johnny-five",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime/issues"
+  },
+  "homepage": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime#readme"
+}
