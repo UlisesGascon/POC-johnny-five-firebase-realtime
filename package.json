@@ -1,11 +1,11 @@
 {
-  "name": "poc-johnny-five-firebase-realtime",
+  "name": "poc-j5-firebase-realtime",
   "version": "1.0.0",
   "description": "Proof of Concept - how to use Firebase Realtime Database with Johnny-five",
   "main": "index.js",
   "private": true,
   "scripts": {
-    "start": "node index.js"
+    "start:arduino": "node arduino.js",
     "build": "echo \"Error: no build specified\" && exit 0"
   },
   "repository": {
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/UlisesGascon/POC-johnny-five-firebase-realtime#readme",
   "dependencies": {
+    "firebase": "^9.22.1",
     "johnny-five": "2.1.0"
   }
 }
